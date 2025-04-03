@@ -324,11 +324,11 @@ h5, .small-categorie h3 {
 
 	/* Chips */
 
-.vergers-urbains, .engineer, .dut, .gardening {
+.vergers-urbains, .engineer, .dut, .gardening, .tresorier {
 	list-style-image: url('images/puces/tomato.png');
 }
 
-.licence, .syngenta {
+.licence, .syngenta, .axa, .datascience {
 	list-style-image: url('images/puces/chip.png');
 }
 
