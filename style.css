@@ -111,6 +111,7 @@
 
 		/* ------------------------- CV ------------------------- */
 
+/* Comment .main margins to print as a single page pdf */
 .main {
 	margin: 0 15% 0 15%;
 }
